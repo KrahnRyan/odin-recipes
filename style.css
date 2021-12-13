@@ -1,0 +1,48 @@
+h1 {
+  background-color: black;
+  color: pink;
+}
+
+.cookies-text {
+  color: brown;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+  font-size: 30px;
+}
+
+img {
+  height: auto;
+  width: auto;
+}
+
+.big-red {
+  color: red;
+  background-color: rgb(255, 255, 255);
+  font-weight: bold;
+}
+
+.credit {
+  color: gray;
+  font-weight: 100;
+}
+
+.whoa-factor {
+  background: yellowgreen;
+  color: tomato;
+  text-align: center;
+  font-weight: 1000;
+}
+
+.smoll {
+  color: gray;
+  font-size: 7px;
+}
+
+.choc {
+  color: chocolate;
+}
+
+.center {
+  text-align: center;
+}
+  
+
